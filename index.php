@@ -1,5 +1,5 @@
 <? php
   
-  pring " I am umesh \n"
+  print " I am umesh \n"
   
 ?>

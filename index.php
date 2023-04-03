@@ -1,5 +1,5 @@
-<? php
-  
-  print " I am umesh dfdsfdsfdfdf \n";
-  
+
+<?php
+echo "Hello World from umesh!";
 ?>
+
